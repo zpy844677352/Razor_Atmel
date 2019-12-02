@@ -7,6 +7,8 @@ Container for the EiE firmware.
 
 #include "configuration.h"
 
+/* hi */
+
 /***********************************************************************************************************************
 Global variable definitions with scope across entire project.
 All Global variable names shall start with "G_"
